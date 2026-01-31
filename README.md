@@ -48,9 +48,10 @@ The repository is **actively updated** as I progress topic by topic.
 
 ---
 
-### 🔹 Classification *(In Progress)*
+### 🔹 Classification 
 - Logistic Regression
-- K-Nearest Neighbors (KNN) ⏳
+- K-Nearest Neighbors (KNN) 
+- Naive Bayes *(In Progress)* ⏳
 
 
 ---
