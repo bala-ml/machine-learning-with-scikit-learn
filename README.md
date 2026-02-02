@@ -52,7 +52,8 @@ The repository is **actively updated** as I progress topic by topic.
 - Logistic Regression
 - K-Nearest Neighbors (KNN) 
 - Naive Bayes 
-- Support Vector Machine (SVM) *(In Progress)* ⏳ 
+- Support Vector Machine (SVM) 
+- Decision Tree *(In Progress)* ⏳
 
 
 ---
@@ -76,8 +77,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Naive Bayes
-- Support Vector Machine (SVM)
 - Decision Tree
 - Random Forest (Classifier & Regressor)
 - Extra Trees
