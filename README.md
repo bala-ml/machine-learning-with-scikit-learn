@@ -53,7 +53,8 @@ The repository is **actively updated** as I progress topic by topic.
 - K-Nearest Neighbors (KNN) 
 - Naive Bayes 
 - Support Vector Machine (SVM) 
-- Decision Tree *(In Progress)* ⏳
+- Decision Tree 
+- Random Forest (Classifier & Regressor) *(In Progress)* ⏳ 
 
 
 ---
@@ -77,7 +78,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Decision Tree
 - Random Forest (Classifier & Regressor)
 - Extra Trees
 - AdaBoost
