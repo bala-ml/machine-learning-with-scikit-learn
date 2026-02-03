@@ -55,7 +55,9 @@ The repository is **actively updated** as I progress topic by topic.
 - Support Vector Machine (SVM) 
 - Decision Tree 
 - Random Forest (Classifier & Regressor) 
-- Extra Trees *(In Progress)* ⏳ 
+- Extra Trees  
+- AdaBoost 
+- Gradient Boosting (Classifier & Regressor) *(In Progress)* ⏳
 
 
 ---
@@ -79,8 +81,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Extra Trees
-- AdaBoost
 - Gradient Boosting (Classifier & Regressor)
 - Handling Imbalanced Datasets
 - PCA (Principal Component Analysis)
