@@ -54,7 +54,8 @@ The repository is **actively updated** as I progress topic by topic.
 - Naive Bayes 
 - Support Vector Machine (SVM) 
 - Decision Tree 
-- Random Forest (Classifier & Regressor) *(In Progress)* ⏳ 
+- Random Forest (Classifier & Regressor) 
+- Extra Trees *(In Progress)* ⏳ 
 
 
 ---
@@ -78,7 +79,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Random Forest (Classifier & Regressor)
 - Extra Trees
 - AdaBoost
 - Gradient Boosting (Classifier & Regressor)
