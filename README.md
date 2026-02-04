@@ -57,7 +57,8 @@ The repository is **actively updated** as I progress topic by topic.
 - Random Forest (Classifier & Regressor) 
 - Extra Trees  
 - AdaBoost 
-- Gradient Boosting (Classifier & Regressor) *(In Progress)* ⏳
+- Gradient Boosting (Classifier & Regressor) 
+- Handling Imbalanced Datasets *(In Progress)* ⏳
 
 
 ---
@@ -81,7 +82,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Gradient Boosting (Classifier & Regressor)
 - Handling Imbalanced Datasets
 - PCA (Principal Component Analysis)
 - Outlier & Novelty Detection
