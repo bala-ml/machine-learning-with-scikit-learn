@@ -58,7 +58,8 @@ The repository is **actively updated** as I progress topic by topic.
 - Extra Trees  
 - AdaBoost 
 - Gradient Boosting (Classifier & Regressor) 
-- Handling Imbalanced Datasets *(In Progress)* ⏳
+- Handling Imbalanced Datasets  
+- PCA (Principal Component Analysis) *(In Progress)* ⏳
 
 
 ---
@@ -82,7 +83,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Handling Imbalanced Datasets
 - PCA (Principal Component Analysis)
 - Outlier & Novelty Detection
 - Isolation Forest
