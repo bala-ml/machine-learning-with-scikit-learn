@@ -59,7 +59,8 @@ The repository is **actively updated** as I progress topic by topic.
 - AdaBoost 
 - Gradient Boosting (Classifier & Regressor) 
 - Handling Imbalanced Datasets  
-- PCA (Principal Component Analysis) *(In Progress)* ⏳
+- PCA (Principal Component Analysis) 
+- Outlier & Novelty Detection *(In Progress)* ⏳
 
 
 ---
@@ -83,7 +84,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- PCA (Principal Component Analysis)
 - Outlier & Novelty Detection
 - Isolation Forest
 - Gaussian Mixture Models
