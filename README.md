@@ -58,12 +58,13 @@ The repository is **actively updated** as I progress topic by topic.
 - Extra Trees  
 - AdaBoost 
 - Gradient Boosting (Classifier & Regressor) 
-- Handling Imbalanced Datasets  
-- PCA (Principal Component Analysis) 
-- Outlier & Novelty Detection *(In Progress)* ⏳
-
+- Handling Imbalanced Datasets
 
 ---
+
+### 🔹 Advanced ML
+- PCA (Principal Component Analysis) 
+- Gaussian Mixture Models *(In Progress)* ⏳
 
 ## 🔄 Progress Tracker
 - ✅ Data Preprocessing
@@ -84,8 +85,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Outlier & Novelty Detection
-- Isolation Forest
 - Gaussian Mixture Models
 - Cross-Validation
 - Hyperparameter Tuning  
