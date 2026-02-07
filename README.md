@@ -64,7 +64,8 @@ The repository is **actively updated** as I progress topic by topic.
 
 ### 🔹 Advanced ML
 - PCA (Principal Component Analysis) 
-- Gaussian Mixture Models *(In Progress)* ⏳
+- Gaussian Mixture Models 
+- Cross-Validation *(In Progress)* ⏳
 
 ## 🔄 Progress Tracker
 - ✅ Data Preprocessing
@@ -85,7 +86,6 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Gaussian Mixture Models
 - Cross-Validation
 - Hyperparameter Tuning  
   - GridSearchCV  
