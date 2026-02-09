@@ -65,13 +65,17 @@ The repository is **actively updated** as I progress topic by topic.
 ### 🔹 Advanced ML
 - PCA (Principal Component Analysis) 
 - Gaussian Mixture Models 
-- Cross-Validation *(In Progress)* ⏳
+- Cross-Validation
+- Hyperparameter Tuning  
+  - GridSearchCV  
+  - RandomizedSearchCV  
+  - Optuna*(In Progress)* ⏳
 
 ## 🔄 Progress Tracker
 - ✅ Data Preprocessing
 - ✅ Regression Models
-- 🔄 Classification
-- ⏳ Advanced Machine Learning
+- ✅ Classification
+- ✅ Advanced Machine Learning
 - ⏳ Model Evaluation & Hyperparameter Tuning
 
 ---
@@ -86,10 +90,7 @@ The repository is **actively updated** as I progress topic by topic.
 ---
 
 ## 🚧 Upcoming Topics
-- Cross-Validation
-- Hyperparameter Tuning  
-  - GridSearchCV  
-  - RandomizedSearchCV  
+- Hyperparameter Tuning
   - Optuna
 - Voting & Stacking Models
 
