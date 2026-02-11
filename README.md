@@ -70,6 +70,7 @@ The repository is **actively updated** as I progress topic by topic.
   - GridSearchCV  
   - RandomizedSearchCV  
   - Optuna*(In Progress)* ⏳
+- Voting & Stacking Models 
 
 ## 🔄 Progress Tracker
 - ✅ Data Preprocessing
@@ -92,7 +93,6 @@ The repository is **actively updated** as I progress topic by topic.
 ## 🚧 Upcoming Topics
 - Hyperparameter Tuning
   - Optuna
-- Voting & Stacking Models
 
 ---
 
