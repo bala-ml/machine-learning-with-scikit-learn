@@ -69,15 +69,8 @@ The repository is **actively updated** as I progress topic by topic.
 - Hyperparameter Tuning  
   - GridSearchCV  
   - RandomizedSearchCV  
-  - Optuna*(In Progress)* ⏳
-- Voting & Stacking Models 
-
-## 🔄 Progress Tracker
-- ✅ Data Preprocessing
-- ✅ Regression Models
-- ✅ Classification
-- ✅ Advanced Machine Learning
-- ⏳ Model Evaluation & Hyperparameter Tuning
+  - Optuna
+- Voting & Stacking Models
 
 ---
 
@@ -87,12 +80,6 @@ The repository is **actively updated** as I progress topic by topic.
 - Handled **multicollinearity using statistical methods**
 - Implemented **regularization techniques** (Ridge, Lasso, Elastic Net)
 - Followed **clean, reusable, production-oriented ML code practices**
-
----
-
-## 🚧 Upcoming Topics
-- Hyperparameter Tuning
-  - Optuna
 
 ---
 
